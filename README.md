@@ -1,6 +1,4 @@
-# Quasar App (ULoan)
-
-NFT minting app
+# ULoan
 
 ## Install the dependencies
 ```bash
