@@ -1,0 +1,10 @@
+// app global css in SCSS form
+@font-face {
+  font-family: SfPro;
+  src: url(./fonts/SfPro.woff);
+}
+
+body {
+  font-family: "SfPro" !important;
+  background: #f5f5f5 !important;
+}
